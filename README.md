@@ -11,7 +11,13 @@ A LLM chat bot built to run locally on your machine with the capability to answe
 pip install -r requirements.txt
 ```
 
-3. Run application
+3. Place HuggingFace Key in .env
+
+   a. Create a key from https://huggingface.co/settings/tokens
+
+   b. In a new file '.env' add HUGGINGFACEHUB_API_TOKEN=<token>
+
+4. Run application
 ```
 streamlit run app.py
 ```
