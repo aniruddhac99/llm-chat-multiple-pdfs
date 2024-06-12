@@ -30,6 +30,8 @@ You can now view your Streamlit app in your browser at http://localhost:8502
 
 ## Reference
 
-This is my first project with LLMs and Langchain. Wanted to start with something basic. Followed the tutorial from: https://www.youtube.com/watch?v=dXxQ0LR-3Hg&t=2898s
+This is my first project with LLMs and Langchain. Wanted to start with something basic. 
+
+Followed the tutorial from: https://www.youtube.com/watch?v=dXxQ0LR-3Hg&t=2898s
 
 ## Deep Dive Articles
